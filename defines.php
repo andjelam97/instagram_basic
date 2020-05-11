@@ -1,4 +1,4 @@
 <?php
-    define('INSTAGRAM_APP_ID','725584818208638');
-    define('INSTAGRAM_APP_SECRET', 'e857adc85f01a10fef18b62670449bd4');
-    define('INSTAGRAM_APP_REDIRECT_URI','https://andjelam97.github.io/');
+    define('INSTAGRAM_APP_ID','536627283680143');
+    define('INSTAGRAM_APP_SECRET', 'dc9d6932b8068af76834922d90b562fa');
+    define('INSTAGRAM_APP_REDIRECT_URI','https://github.com/andjelam97/instagram_basic/instagram_basic_dispaly_api');
